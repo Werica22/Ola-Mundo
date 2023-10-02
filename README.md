@@ -3,5 +3,5 @@
 Repositório criado durante uma aula
 Alterando
 
-Essa linha eu adicionei diretamente no site.Que impressionate!
+Essa linha eu adicionei diretamente no site. Que impressionate.
 
